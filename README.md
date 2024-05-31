@@ -1,7 +1,7 @@
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana. 
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana. Eclipse: Dawn of Survival é um jogo de sobrevivência futuristica que acaba de ser lançado e está sendo apresentado no mercado. A ideia surgiu como uma forma de combinar várias IA's Generativas afim de produzir um conteúdo que fosse parecer o mais natural possivel e verdadeiro, porém, utilizando coisas que nunca foram jamais vistas, e sim, geradas por IA. 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
